@@ -1,0 +1,2 @@
+D:\protoc\protoc-3.11.2-win32\bin\protoc.exe -I Shippy/ consignment-service/proto/consignment/consignment.proto --go_out=plugins=grpc:consignment
+go.etcd.io
